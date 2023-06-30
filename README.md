@@ -1,4 +1,5 @@
 # Encryption
+(1st term,Introduction To Computer Programming course assignment)
 
  Read a sequence of uppercase alphabetic characters from the
 console and encrypt it by shifting each character by a fixed number of positions (p)
